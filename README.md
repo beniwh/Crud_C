@@ -1,3 +1,3 @@
 # Crud_C
 
-![Screenshot](https://imgur.com/lsYpfuB)
+![Screenshot](https://i.imgur.com/lsYpfuB.jpg)
